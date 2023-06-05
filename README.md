@@ -226,7 +226,8 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 
 ## HTML Validator:
 
-![htmlvalidator 1](https://github.com/MrSanthosh-dev/places-around-me/assets/117916573/2903afe6-0421-4970-9141-59fb612f892e)
+
+![htmlvalidator 2](https://github.com/MrSanthosh-dev/places-around-me/assets/117916573/0cd7e54d-884d-4f2e-8553-bafd81fd34cb)
 
 
 ## Result:
