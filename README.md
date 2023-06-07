@@ -35,7 +35,7 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
         </h1>
         <h3 align="center">
         <font color="blue" face ="cursive">
-            Sriram.S.S (212222230150)
+            Santhosh D (212222100047)
         </font>
             
         </h3>
@@ -231,4 +231,4 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 
 
 ## Result:
-Code is sucessfully verified.
+Code is successfully verified.
