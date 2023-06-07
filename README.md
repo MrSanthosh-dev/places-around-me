@@ -35,7 +35,7 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
         </h1>
         <h3 align="center">
         <font color="blue" face ="cursive">
-            Santhosh D (212222100047)
+            Santhosh S (212222100047)
         </font>
             
         </h3>
